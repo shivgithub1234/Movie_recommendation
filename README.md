@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/3d7e79c9-e5a1-48ae-9efe-7c2ef9ca0425)
+
+
 # Movie Recommendation API
 
 This project is a FastAPI-based backend service for recommending movies based on user input. It offers two recommendation strategies: one using traditional cosine similarity on metadata, and another using a sentence transformer model to find semantically similar movies.
